@@ -1,2 +1,1 @@
-google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0  # アプリ1用（どうぶつ図鑑）
-google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0  # アプリ2用（新しいアプリ）
+google.com, pub-8502216838632386, DIRECT, f08c47fec0942fa0
